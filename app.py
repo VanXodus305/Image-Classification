@@ -42,7 +42,7 @@ def predict():
     if class_index == 0:
         result = "😼 Meow! It's a CAT!"
     else:
-        result = "🐶 Bhau! It's a DOG!"
+        result = "🐶 Woof! It's a DOG!"
 
     # Fix path for browser
     image_url = "/" + file_path.replace("\\", "/")

@@ -26,11 +26,11 @@ ENV/
 *.pkl
 *.joblib
 
-# ========================
-# Uploaded / Generated Images
-# ========================
-static/uploads/*
-!static/uploads/.gitkeep
+# # ========================
+# # Uploaded / Generated Images
+# # ========================
+# static/uploads/*
+# !static/uploads/.gitkeep
 
 # ========================
 # Flask
